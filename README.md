@@ -1,2 +1,3 @@
 # hello-world
-first to make good use of this  thing
+first to use this  thing
+so what do i need to do next step
